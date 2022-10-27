@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dev/static/css/main.4460de2d.css",
+    "main.js": "/dev/static/js/main.6d5d437a.js",
+    "static/js/314.ca67b3ab.chunk.js": "/dev/static/js/314.ca67b3ab.chunk.js",
+    "static/js/906.831ae34f.chunk.js": "/dev/static/js/906.831ae34f.chunk.js",
+    "static/media/the-saudis.wav": "/dev/static/media/the-saudis.707155ba8a9a89f74288.wav",
+    "static/media/fire.gif": "/dev/static/media/fire.6959a22afdd2bb9b358e.gif",
+    "static/media/cheetahs.png": "/dev/static/media/cheetahs.b6052398442af50c2cca.png",
+    "static/media/circular-std-medium.otf": "/dev/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
+    "static/media/minusio.ttf": "/dev/static/media/minusio.bedb990d802a7fd04c23.ttf",
+    "index.html": "/dev/index.html",
+    "static/media/play.svg": "/dev/static/media/play.55f7e534531bbba466c8bc147b53dfad.svg",
+    "static/media/ethereum.svg": "/dev/static/media/ethereum.6e0751aed235dd1b48d59ca0839e8f57.svg",
+    "static/media/pause.svg": "/dev/static/media/pause.d1d73b06c7b701a0a1d4467ac686ef01.svg"
+  },
+  "entrypoints": [
+    "static/css/main.4460de2d.css",
+    "static/js/main.6d5d437a.js"
+  ]
+}
