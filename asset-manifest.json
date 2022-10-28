@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dev/static/css/main.6eb920fd.css",
-    "main.js": "/dev/static/js/main.53227f9d.js",
+    "main.js": "/dev/static/js/main.b547e589.js",
     "static/js/314.ca67b3ab.chunk.js": "/dev/static/js/314.ca67b3ab.chunk.js",
     "static/js/906.831ae34f.chunk.js": "/dev/static/js/906.831ae34f.chunk.js",
     "static/media/the-cheetahs.wav": "/dev/static/media/the-cheetahs.854075383b4ffffff52c.wav",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.6eb920fd.css",
-    "static/js/main.53227f9d.js"
+    "static/js/main.b547e589.js"
   ]
 }
