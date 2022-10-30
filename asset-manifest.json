@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/dev/static/css/main.c2811bf9.css",
-    "main.js": "/dev/static/js/main.d749a12a.js",
+    "main.css": "/dev/static/css/main.a90ed6d6.css",
+    "main.js": "/dev/static/js/main.f57e9683.js",
     "static/js/314.ca67b3ab.chunk.js": "/dev/static/js/314.ca67b3ab.chunk.js",
     "static/js/906.831ae34f.chunk.js": "/dev/static/js/906.831ae34f.chunk.js",
     "static/media/the-cheetahs.wav": "/dev/static/media/the-cheetahs.854075383b4ffffff52c.wav",
     "static/media/fire.gif": "/dev/static/media/fire.6959a22afdd2bb9b358e.gif",
-    "static/media/cheetahs.png": "/dev/static/media/cheetahs.b6052398442af50c2cca.png",
+    "static/media/cheetahs.png": "/dev/static/media/cheetahs.20e94733e88445480d35.png",
     "static/media/circular-std-medium.otf": "/dev/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
     "static/media/circular-book.otf": "/dev/static/media/circular-book.9048137056e4347dbbd5.otf",
     "static/media/barrel.png": "/dev/static/media/barrel.7e2141b7b2cb5c4304f1.png",
@@ -17,7 +17,7 @@
     "static/media/pause.svg": "/dev/static/media/pause.d1d73b06c7b701a0a1d4467ac686ef01.svg"
   },
   "entrypoints": [
-    "static/css/main.c2811bf9.css",
-    "static/js/main.d749a12a.js"
+    "static/css/main.a90ed6d6.css",
+    "static/js/main.f57e9683.js"
   ]
 }
